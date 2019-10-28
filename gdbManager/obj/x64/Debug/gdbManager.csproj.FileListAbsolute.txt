@@ -1,0 +1,11 @@
+C:\Users\Administrator\Source\Repos\gdbManager\gdbManager\bin\x64\Debug\gdbManager.exe.config
+C:\Users\Administrator\Source\Repos\gdbManager\gdbManager\bin\x64\Debug\gdbManager.exe
+C:\Users\Administrator\Source\Repos\gdbManager\gdbManager\bin\x64\Debug\gdbManager.pdb
+C:\Users\Administrator\Source\Repos\gdbManager\gdbManager\bin\x64\Debug\Esri.FileGDBAPI.pdb
+C:\Users\Administrator\Source\Repos\gdbManager\gdbManager\obj\x64\Debug\gdbManager.Form1.resources
+C:\Users\Administrator\Source\Repos\gdbManager\gdbManager\obj\x64\Debug\gdbManager.Properties.Resources.resources
+C:\Users\Administrator\Source\Repos\gdbManager\gdbManager\obj\x64\Debug\gdbManager.csproj.GenerateResource.cache
+C:\Users\Administrator\Source\Repos\gdbManager\gdbManager\obj\x64\Debug\gdbManager.csproj.CopyComplete
+C:\Users\Administrator\Source\Repos\gdbManager\gdbManager\obj\x64\Debug\gdbManager.exe
+C:\Users\Administrator\Source\Repos\gdbManager\gdbManager\obj\x64\Debug\gdbManager.pdb
+C:\Users\Administrator\Source\Repos\gdbManager\gdbManager\bin\x64\Debug\Esri.FileGDBAPI.dll
